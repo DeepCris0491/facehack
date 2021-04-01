@@ -14,5 +14,5 @@ Solo para termux.
 * `cd facehack`
 * `bash facehack`
 
-<p>Tambien lo puedes descargar desde mi pagina.</p>
+<p>Tambien lo puedes descargar desde mi pagina web.</p>
 https://probabilistic-bangs.000webhostapp.com
