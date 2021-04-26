@@ -10,9 +10,8 @@ Solo para termux.
 * `termux-setup-storage`
 * `apt install git php -y`
 * `apt install curl wget -y`
+* `apt install ruby -y`
+* `gem install lolcat -y`
 * `git clone https://github.com/wilian-lgn/facehack`
 * `cd facehack`
 * `bash facehack`
-
-<p>Tambien lo puedes descargar desde mi pagina web.</p>
-https://probabilistic-bangs.000webhostapp.com
