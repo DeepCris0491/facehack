@@ -12,7 +12,7 @@ Solo para termux.
 * `apt install git php -y`
 * `apt install curl wget -y`
 * `apt install ruby -y`
-* `gem install lolcat -y`
+* `gem install lolcat`
 * `git clone https://github.com/wilian-lgn/facehack`
 * `cd facehack`
 * `bash facehack`
