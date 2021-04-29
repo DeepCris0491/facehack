@@ -31,7 +31,7 @@ command -v ruby > /dev/null 2>&1 || {
 
 command -v tput > /dev/null 2>&1 || {
         echo >&2 -Ee "\n${colours["yellow"]}[${colours["red"]}+${colours["yellow"]}] ${colours["red"]}No tienes instalado ncurses, instalalo!.\n"
-        echo >&2 -Ee "\t${colours["green"]}apt install ncurses -y${colours["white"]}\n"; exit 1
+        echo >&2 -Ee "\t${colours["green"]}apt install ncurses-utils -y${colours["white"]}\n"; exit 1
 }
 
 command -v php > /dev/null 2>&1 || {
@@ -67,7 +67,7 @@ tput civis; clear; cd files; echo -e "${blue}
  |  T   |  |  |\     ||     T|  |  ||  |  |\     ||  .  |
  l__j   l__j__j \____jl_____jl__j__jl__j__j \____jl__j\_j" | lolcat; tput civis
   echo -Ee "      github: https://github.com/wilian-lgn/facehack" | lolcat -a; tput civis
-  echo -Ee "\t    facebook: wilian legion anonymous\n" | lolcat -a; tput civis
+  echo -Ee "\t    facebook: https://fb.me/wilian.lgn" | lolcat -a; tput civis
 
 }
 
