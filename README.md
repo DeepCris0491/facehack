@@ -11,6 +11,7 @@ Solo para termux.
 * `termux-setup-storage`
 * `apt install git php -y`
 * `apt install curl wget -y`
+* `apt install ncurses-utils -y`
 * `apt install ruby -y`
 * `gem install lolcat`
 * `git clone https://github.com/wilian-lgn/facehack`
