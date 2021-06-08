@@ -1,5 +1,5 @@
-# facehack
-Facehack es una herramienta de phishing creada en el lenguaje bash. Ideal para obtener credenciales de una cuenta de facebook aplicando ingenería social.
+# facehackv2.1
+vFacehack es una herramienta de phishing creada en el lengua je bash. Ideal para obtener credenciales de una cuenta de facebook aplicando ingenería socia
 Solo para termux.
 
 <img src="http://probabilistic-bangs.000webhostapp.com/imagenes/facehack.jpg">
